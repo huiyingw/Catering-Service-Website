@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="1451" version="1.1" width="1748" xmlns="http://www.w3.org/2000/svg">
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="998" x2="966" y1="909" y2="1005"/>
+<rect fill="#99ccff" height="296" stroke="#99ccff" stroke-width="1" width="1376" x="14" y="45"/>
+<rect fill="#7daee0" height="664" stroke="#7daee0" stroke-width="1" width="1376" x="14" y="341"/>
+<rect fill="#ffffff" height="95" stroke="#ffffff" stroke-width="1" width="152" x="342" y="197"/>
+<rect fill="none" height="95" stroke="#000000" stroke-width="1" width="152" x="342" y="197"/>
+<text font-family="Lucida Grande" font-size="13" x="356" y="211">
+EmployeeController</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="342" y="221"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="342" y="254"/>
+<text font-family="Lucida Grande" font-size="13" x="346" y="269">
+routeMySchedulePage()</text>
+<rect fill="#ffffff" height="95" stroke="#ffffff" stroke-width="1" width="181" x="542" y="197"/>
+<rect fill="none" height="95" stroke="#000000" stroke-width="1" width="181" x="542" y="197"/>
+<text font-family="Lucida Grande" font-size="13" x="576" y="211">
+ManagerControler</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="181" x="542" y="221"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="181" x="542" y="245"/>
+<text font-family="Lucida Grande" font-size="13" x="546" y="260">
+routeManagmentPage()</text>
+<text font-family="Lucida Grande" font-size="13" x="546" y="277">
+routeEventSchedulingPage()</text>
+<rect fill="#ffffff" height="95" stroke="#ffffff" stroke-width="1" width="144" x="822" y="197"/>
+<rect fill="none" height="95" stroke="#000000" stroke-width="1" width="144" x="822" y="197"/>
+<text font-family="Lucida Grande" font-size="13" x="848" y="211">
+MiscController</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="144" x="822" y="221"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="144" x="822" y="245"/>
+<text font-family="Lucida Grande" font-size="13" x="826" y="260">
+routeLoginPage()</text>
+<text font-family="Lucida Grande" font-size="13" x="826" y="277">
+routeBookingPage()</text>
+<rect fill="#ffffff" height="68" stroke="#ffffff" stroke-width="1" width="66" x="1142" y="125"/>
+<rect fill="none" height="68" stroke="#000000" stroke-width="1" width="66" x="1142" y="125"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="66" x="1142" y="149"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="66" x="1142" y="170"/>
+<polygon fill="#ffffff" points="1142,101 1256,101 1256,125 1305,125 1305,200 1142,200 1142,101" stroke="#ffffff" stroke-width="1"/>
+<rect fill="none" height="24" stroke="#000000" stroke-width="1" width="114" x="1142" y="101"/>
+<text font-family="Lucida Grande" font-size="13" x="1147" y="115">
+Static Resources</text>
+<rect fill="none" height="75" stroke="#000000" stroke-width="1" width="163" x="1142" y="125"/>
+<polyline fill="none" points="703,125 1142,125" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1130" x2="1142" y1="132" y2="125"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1130" x2="1142" y1="118" y2="125"/>
+<text font-family="Lucida Grande" font-size="13" x="882" y="113">
+&lt;&lt;routes&gt;&gt;</text>
+<text font-family="Lucida Grande" font-size="13" x="714" y="120">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="1116" y="120">
+1..*</text>
+<polyline fill="none" points="703,136 822,197" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="808" x2="822" y1="197" y2="197"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="814" x2="822" y1="185" y2="197"/>
+<text font-family="Lucida Grande" font-size="13" x="736" y="145">
+&lt;&lt;creates&gt;&gt;</text>
+<text font-family="Lucida Grande" font-size="13" x="724" y="136">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="806" y="178">
+1</text>
+<polyline fill="none" points="638,136 638,197" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="631" x2="638" y1="185" y2="197"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="645" x2="638" y1="185" y2="197"/>
+<text font-family="Lucida Grande" font-size="13" x="642" y="179">
+&lt;&lt;creates&gt;&gt;</text>
+<text font-family="Lucida Grande" font-size="13" x="651" y="163">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="651" y="180">
+1</text>
+<polyline fill="none" points="582,136 493,197" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="498" x2="493" y1="184" y2="197"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="506" x2="493" y1="195" y2="197"/>
+<text font-family="Lucida Grande" font-size="13" x="471" y="144">
+&lt;&lt;creates&gt;&gt;</text>
+<text font-family="Lucida Grande" font-size="13" x="550" y="139">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="498" y="175">
+1</text>
+<text font-family="Lucida Grande" font-size="36" font-weight="bold" x="22" y="80">
+WEB LAYER</text>
+<rect fill="#ffffff" height="152" stroke="#ffffff" stroke-width="1" width="175" x="398" y="573"/>
+<rect fill="none" height="152" stroke="#000000" stroke-width="1" width="175" x="398" y="573"/>
+<text font-family="Lucida Grande" font-size="13" x="455" y="587">
+Employee</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="175" x="398" y="597"/>
+<text font-family="Lucida Grande" font-size="13" x="402" y="612">
+id : long</text>
+<text font-family="Lucida Grande" font-size="13" x="402" y="629">
+assetName : String</text>
+<text font-family="Lucida Grande" font-size="13" x="402" y="646">
+scheduleId : long</text>
+<text font-family="Lucida Grande" font-size="13" x="402" y="663">
+name : String</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="175" x="398" y="686"/>
+<text font-family="Lucida Grande" font-size="13" x="402" y="701">
+GettersNSettersforAttribs()</text>
+<rect fill="#ffffff" height="72" stroke="#ffffff" stroke-width="1" width="136" x="310" y="861"/>
+<rect fill="none" height="72" stroke="#000000" stroke-width="1" width="136" x="310" y="861"/>
+<text font-family="Lucida Grande" font-size="13" x="345" y="895">
+AssetType</text>
+<text font-family="Lucida Grande" font-size="13" x="330" y="876">
+&lt;&lt;interface&gt;&gt;</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="136" x="310" y="905"/>
+<text font-family="Lucida Grande" font-size="13" x="314" y="920">
+getAssetType()</text>
+<polyline fill="none" points="398,724 398,861" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="391" x2="398" y1="849" y2="861"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="405" x2="398" y1="849" y2="861"/>
+<text font-family="Lucida Grande" font-size="13" x="402" y="805">
+&lt;&lt;implements&gt;&gt;</text>
+<rect fill="#ffffff" height="152" stroke="#ffffff" stroke-width="1" width="176" x="150" y="565"/>
+<rect fill="none" height="152" stroke="#000000" stroke-width="1" width="176" x="150" y="565"/>
+<text font-family="Lucida Grande" font-size="13" x="204" y="579">
+Equipment</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="176" x="150" y="589"/>
+<text font-family="Lucida Grande" font-size="13" x="154" y="604">
+id : long</text>
+<text font-family="Lucida Grande" font-size="13" x="154" y="621">
+assetName : String</text>
+<text font-family="Lucida Grande" font-size="13" x="154" y="638">
+scheduleId : long</text>
+<text font-family="Lucida Grande" font-size="13" x="154" y="655">
+name : String</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="176" x="150" y="678"/>
+<text font-family="Lucida Grande" font-size="13" x="154" y="693">
+GettersNSettersforAttribs()</text>
+<polyline fill="none" points="318,716 318,861" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="311" x2="318" y1="849" y2="861"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="325" x2="318" y1="849" y2="861"/>
+<text font-family="Lucida Grande" font-size="13" x="322" y="801">
+&lt;&lt;Implements&gt;&gt;</text>
+<rect fill="#ffffff" height="105" stroke="#ffffff" stroke-width="1" width="137" x="86" y="829"/>
+<rect fill="none" height="105" stroke="#000000" stroke-width="1" width="137" x="86" y="829"/>
+<text font-family="Lucida Grande" font-size="13" x="109" y="843">
+AssetTypeMap</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="137" x="86" y="853"/>
+<text font-family="Lucida Grande" font-size="13" x="90" y="868">
+assetMap : HashMap</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="137" x="86" y="884"/>
+<text font-family="Lucida Grande" font-size="13" x="90" y="899">
+getAssetId()</text>
+<text font-family="Lucida Grande" font-size="13" x="90" y="916">
+initAssetMap()</text>
+<polyline fill="none" points="398,724 222,829" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="228" x2="222" y1="816" y2="829"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="235" x2="222" y1="828" y2="829"/>
+<text font-family="Lucida Grande" font-size="13" x="359" y="725">
+1..*</text>
+<text font-family="Lucida Grande" font-size="13" x="229" y="807">
+1</text>
+<polyline fill="none" points="182,716 182,829" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="175" x2="182" y1="817" y2="829"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="189" x2="182" y1="817" y2="829"/>
+<text font-family="Lucida Grande" font-size="13" x="188" y="743">
+1..*</text>
+<text font-family="Lucida Grande" font-size="13" x="195" y="812">
+1</text>
+<rect fill="#ffffff" height="160" stroke="#ffffff" stroke-width="1" width="184" x="630" y="565"/>
+<rect fill="none" height="160" stroke="#000000" stroke-width="1" width="184" x="630" y="565"/>
+<text font-family="Lucida Grande" font-size="13" x="705" y="579">
+Event</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="184" x="630" y="589"/>
+<text font-family="Lucida Grande" font-size="13" x="634" y="604">
+id : long</text>
+<text font-family="Lucida Grande" font-size="13" x="634" y="621">
+name : String</text>
+<text font-family="Lucida Grande" font-size="13" x="634" y="638">
+date : DateRange</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="184" x="630" y="648"/>
+<text font-family="Lucida Grande" font-size="13" x="634" y="663">
+setStartDate(date)</text>
+<text font-family="Lucida Grande" font-size="13" x="634" y="680">
+setEndDate(date)</text>
+<text font-family="Lucida Grande" font-size="13" x="634" y="697">
+setDateRange(dateRange)</text>
+<text font-family="Lucida Grande" font-size="13" x="634" y="714">
+GettersNSettersforAttrib()</text>
+<rect fill="#ffffff" height="143" stroke="#ffffff" stroke-width="1" width="146" x="294" y="357"/>
+<rect fill="none" height="143" stroke="#000000" stroke-width="1" width="146" x="294" y="357"/>
+<text font-family="Lucida Grande" font-size="13" x="339" y="371">
+schedule</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="146" x="294" y="381"/>
+<text font-family="Lucida Grande" font-size="13" x="298" y="396">
+schedule : HashMap</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="146" x="294" y="406"/>
+<text font-family="Lucida Grande" font-size="13" x="298" y="421">
+add(scheduableObj)</text>
+<text font-family="Lucida Grande" font-size="13" x="298" y="438">
+remove(ScheduleObj)</text>
+<text font-family="Lucida Grande" font-size="13" x="298" y="455">
+getByName(name)</text>
+<text font-family="Lucida Grande" font-size="13" x="298" y="472">
+getById(id)</text>
+<text font-family="Lucida Grande" font-size="13" x="298" y="489">
+dumpSchedule()</text>
+<polyline fill="none" points="294,565 294,499" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="301" x2="294" y1="511" y2="499"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="287" x2="294" y1="511" y2="499"/>
+<text font-family="Lucida Grande" font-size="13" x="273" y="548">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="273" y="526">
+1</text>
+<polyline fill="none" points="430,573 430,499" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="437" x2="430" y1="511" y2="499"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="423" x2="430" y1="511" y2="499"/>
+<text font-family="Lucida Grande" font-size="13" x="409" y="556">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="409" y="526">
+1</text>
+<rect fill="#ffffff" height="155" stroke="#ffffff" stroke-width="1" width="167" x="566" y="349"/>
+<rect fill="none" height="155" stroke="#000000" stroke-width="1" width="167" x="566" y="349"/>
+<text font-family="Lucida Grande" font-size="13" x="612" y="383">
+Schedulable</text>
+<text font-family="Lucida Grande" font-size="13" x="602" y="364">
+&lt;&lt;interface&gt;&gt;</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="167" x="566" y="393"/>
+<text font-family="Lucida Grande" font-size="13" x="570" y="408">
+getName()</text>
+<text font-family="Lucida Grande" font-size="13" x="570" y="425">
+getId()</text>
+<text font-family="Lucida Grande" font-size="13" x="570" y="442">
+getType()</text>
+<text font-family="Lucida Grande" font-size="13" x="570" y="459">
+getRequirments()</text>
+<text font-family="Lucida Grande" font-size="13" x="570" y="476">
+getDateRange()</text>
+<text font-family="Lucida Grande" font-size="13" x="570" y="493">
+setDateRange(dateRange)</text>
+<polyline fill="none" points="439,373 566,373" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="554" x2="566" y1="380" y2="373"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="554" x2="566" y1="366" y2="373"/>
+<text font-family="Lucida Grande" font-size="13" x="450" y="368">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="540" y="368">
+1..*</text>
+<polyline fill="none" points="732,565 732,503" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="739" x2="732" y1="515" y2="503"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="725" x2="732" y1="515" y2="503"/>
+<text font-family="Lucida Grande" font-size="13" x="612" y="547">
+&lt;&lt;implements&gt;&gt;</text>
+<rect fill="#ffffff" height="91" stroke="#ffffff" stroke-width="1" width="103" x="1046" y="429"/>
+<rect fill="none" height="91" stroke="#000000" stroke-width="1" width="103" x="1046" y="429"/>
+<text font-family="Lucida Grande" font-size="13" x="1067" y="463">
+Scheduler</text>
+<text font-family="Lucida Grande" font-size="13" x="1055" y="444">
+&lt;&lt;Service&gt;&gt;</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="103" x="1046" y="473"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="103" x="1046" y="494"/>
+<text font-family="Lucida Grande" font-size="13" x="1050" y="509">
+doCSP()</text>
+<rect fill="#ffffff" height="105" stroke="#ffffff" stroke-width="1" width="254" x="974" y="781"/>
+<rect fill="none" height="105" stroke="#000000" stroke-width="1" width="254" x="974" y="781"/>
+<text font-family="Lucida Grande" font-size="13" x="1044" y="795">
+DomainTranslator</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="254" x="974" y="805"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="254" x="974" y="826"/>
+<text font-family="Lucida Grande" font-size="13" x="978" y="841">
+toSchedulerObj(employeeOrequipment)</text>
+<text font-family="Lucida Grande" font-size="13" x="978" y="858">
+fromScheduler(obj)</text>
+<text font-family="Lucida Grande" font-size="13" x="978" y="875">
+nextSchedulerObj()</text>
+<rect fill="#ffffff" height="104" stroke="#ffffff" stroke-width="1" width="168" x="1014" y="581"/>
+<rect fill="none" height="104" stroke="#000000" stroke-width="1" width="168" x="1014" y="581"/>
+<text font-family="Lucida Grande" font-size="13" x="1035" y="615">
+SchedulerTranslator</text>
+<text font-family="Lucida Grande" font-size="13" x="1050" y="596">
+&lt;&lt;interface&gt;&gt;</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="168" x="1014" y="625"/>
+<text font-family="Lucida Grande" font-size="13" x="1018" y="640">
+toSchedulerObj(obj)</text>
+<text font-family="Lucida Grande" font-size="13" x="1018" y="657">
+fromeScheduler(obj)</text>
+<text font-family="Lucida Grande" font-size="13" x="1018" y="674">
+nextSchedulerObj()</text>
+<polyline fill="none" points="1166,781 1166,684" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1173" x2="1166" y1="696" y2="684"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1159" x2="1166" y1="696" y2="684"/>
+<text font-family="Lucida Grande" font-size="13" x="1046" y="746">
+&lt;&lt;implements&gt;&gt;</text>
+<polyline fill="none" points="1118,519 1118,581" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1111" x2="1118" y1="569" y2="581"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1125" x2="1118" y1="569" y2="581"/>
+<text font-family="Lucida Grande" font-size="13" x="1131" y="546">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="1131" y="564">
+1</text>
+<polyline fill="none" points="974,813 606,813 572,724" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="582" x2="572" y1="732" y2="724"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="569" x2="572" y1="737" y2="724"/>
+<polyline fill="none" points="974,837 598,837 494,757 254,757 254,716" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="261" x2="254" y1="728" y2="716"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="247" x2="254" y1="728" y2="716"/>
+<rect fill="#ffffff" height="71" stroke="#ffffff" stroke-width="1" width="120" x="166" y="165"/>
+<rect fill="none" height="71" stroke="#000000" stroke-width="1" width="120" x="166" y="165"/>
+<text font-family="Lucida Grande" font-size="13" x="181" y="179">
+RestController</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="120" x="166" y="189"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="120" x="166" y="210"/>
+<text font-family="Lucida Grande" font-size="13" x="170" y="225">
+recvRestMsgs()</text>
+<polyline fill="none" points="582,136 285,165" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="296" x2="285" y1="156" y2="165"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="297" x2="285" y1="170" y2="165"/>
+<text font-family="Lucida Grande" font-size="13" x="562" y="130">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="295" y="158">
+1</text>
+<rect fill="#ffffff" height="189" stroke="#ffffff" stroke-width="1" width="199" x="30" y="349"/>
+<rect fill="none" height="189" stroke="#000000" stroke-width="1" width="199" x="30" y="349"/>
+<text font-family="Lucida Grande" font-size="13" x="61" y="383">
+DomainLayerInterface</text>
+<text font-family="Lucida Grande" font-size="13" x="82" y="364">
+&lt;&lt;interface&gt;&gt;</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="199" x="30" y="393"/>
+<text font-family="Lucida Grande" font-size="13" x="34" y="408">
+addEvent(Eventdescription)</text>
+<text font-family="Lucida Grande" font-size="13" x="34" y="425">
+getScheduleForEmployee(id)</text>
+<text font-family="Lucida Grande" font-size="13" x="34" y="442">
+getScheduleForEquipment(id)</text>
+<text font-family="Lucida Grande" font-size="13" x="34" y="459">
+getEventSchedule()</text>
+<text font-family="Lucida Grande" font-size="13" x="34" y="476">
+isScheduleValid()</text>
+<text font-family="Lucida Grande" font-size="13" x="34" y="493">
+addEquipment(Equipmentdisc)</text>
+<text font-family="Lucida Grande" font-size="13" x="34" y="510">
+addEmployee(employdisc)</text>
+<text font-family="Lucida Grande" font-size="13" x="34" y="527">
+more...................()</text>
+<polyline fill="none" points="182,235 182,349" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="175" x2="182" y1="337" y2="349"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="189" x2="182" y1="337" y2="349"/>
+<text font-family="Lucida Grande" font-size="13" x="195" y="262">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="195" y="332">
+1</text>
+<polyline fill="none" points="342,291 228,349" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="235" x2="228" y1="337" y2="349"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="241" x2="228" y1="349" y2="349"/>
+<text font-family="Lucida Grande" font-size="13" x="313" y="291">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="236" y="330">
+1</text>
+<polyline fill="none" points="614,291 614,317 294,317 230,349 228,349" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="240" x2="228" y1="342" y2="349"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="240" x2="228" y1="356" y2="349"/>
+<text font-family="Lucida Grande" font-size="13" x="593" y="305">
+1</text>
+<polyline fill="none" points="894,291 894,325 294,325 228,349" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="236" x2="228" y1="338" y2="349"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="241" x2="228" y1="351" y2="349"/>
+<text font-family="Lucida Grande" font-size="13" x="873" y="313">
+1</text>
+<rect fill="#c0c0c0" height="960" stroke="#c0c0c0" stroke-width="1" width="344" x="1390" y="45"/>
+<text font-family="Lucida Grande" font-size="24" font-weight="bold" x="1398" y="77">
+Authorization Layer</text>
+<rect fill="#ffffff" height="152" stroke="#ffffff" stroke-width="1" width="184" x="1406" y="141"/>
+<rect fill="none" height="152" stroke="#000000" stroke-width="1" width="184" x="1406" y="141"/>
+<text font-family="Lucida Grande" font-size="13" x="1483" y="155">
+Auth</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="184" x="1406" y="165"/>
+<text font-family="Lucida Grande" font-size="13" x="1410" y="180">
+AuthTokens : StringArray</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="184" x="1406" y="203"/>
+<text font-family="Lucida Grande" font-size="13" x="1410" y="218">
+Authenticate(usr,pwd)</text>
+<text font-family="Lucida Grande" font-size="13" x="1410" y="235">
+getAuthToken(account)</text>
+<text font-family="Lucida Grande" font-size="13" x="1410" y="252">
+revokeAuthToken(account)</text>
+<text font-family="Lucida Grande" font-size="13" x="1410" y="269">
+isValidAuthToken(token)</text>
+<rect fill="#ffffff" height="92" stroke="#ffffff" stroke-width="1" width="113" x="1598" y="357"/>
+<rect fill="none" height="92" stroke="#000000" stroke-width="1" width="113" x="1598" y="357"/>
+<text font-family="Lucida Grande" font-size="13" x="1628" y="371">
+Account</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="113" x="1598" y="381"/>
+<text font-family="Lucida Grande" font-size="13" x="1602" y="396">
+uname : String</text>
+<text font-family="Lucida Grande" font-size="13" x="1602" y="413">
+pwd : String</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="113" x="1598" y="425"/>
+<polyline fill="none" points="1589,292 1598,357" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1589" x2="1598" y1="346" y2="357"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1603" x2="1598" y1="344" y2="357"/>
+<text font-family="Lucida Grande" font-size="13" x="1606" y="318">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="1601" y="338">
+1..*</text>
+<polyline fill="none" points="965,237 1406,237" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1394" x2="1406" y1="244" y2="237"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1394" x2="1406" y1="230" y2="237"/>
+<text font-family="Lucida Grande" font-size="13" x="976" y="232">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="1387" y="232">
+1</text>
+<polyline fill="none" points="670,291 670,309 1406,292" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1394" x2="1406" y1="299" y2="292"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1393" x2="1406" y1="285" y2="292"/>
+<text font-family="Lucida Grande" font-size="13" x="684" y="300">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="1385" y="286">
+1</text>
+<polyline fill="none" points="470,291 470,333 1406,292" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1394" x2="1406" y1="299" y2="292"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1393" x2="1406" y1="285" y2="292"/>
+<text font-family="Lucida Grande" font-size="13" x="494" y="305">
+1</text>
+<polyline fill="none" points="285,165 478,45 1326,53 1406,141" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1392" x2="1406" y1="136" y2="141"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1403" x2="1406" y1="127" y2="141"/>
+<text font-family="Lucida Grande" font-size="13" x="290" y="145">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="1399" y="116">
+1</text>
+<rect fill="#ffffff" height="84" stroke="#ffffff" stroke-width="1" width="122" x="582" y="53"/>
+<rect fill="none" height="84" stroke="#000000" stroke-width="1" width="122" x="582" y="53"/>
+<text font-family="Lucida Grande" font-size="13" x="587" y="67">
+SpringApplication</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="122" x="582" y="77"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="122" x="582" y="104"/>
+<text font-family="Lucida Grande" font-size="13" x="586" y="119">
+main()</text>
+<text font-family="Lucida Grande" font-size="36" font-weight="bold" x="950" y="376">
+Domain Layer</text>
+<rect fill="#cf7171" height="440" stroke="#cf7171" stroke-width="1" width="1720" x="14" y="997"/>
+<rect fill="#ffffff" height="125" stroke="#ffffff" stroke-width="1" width="228" x="318" y="1221"/>
+<rect fill="none" height="125" stroke="#000000" stroke-width="1" width="228" x="318" y="1221"/>
+<text font-family="Lucida Grande" font-size="13" x="375" y="1255">
+StorageDriverBase</text>
+<text font-family="Lucida Grande" font-size="13" x="386" y="1236">
+&lt;&lt;abstract&gt;&gt;</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="228" x="318" y="1265"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="228" x="318" y="1286"/>
+<text font-family="Lucida Grande" font-size="13" x="322" y="1301">
+toInsertSQL(StorableObj)</text>
+<text font-family="Lucida Grande" font-size="13" x="322" y="1318">
+toSelectSQL(StorableObj)</text>
+<text font-family="Lucida Grande" font-size="13" x="322" y="1335">
+fromSQL(queryResults,storableObj)</text>
+<rect fill="#ffffff" height="104" stroke="#ffffff" stroke-width="1" width="137" x="222" y="1029"/>
+<rect fill="none" height="104" stroke="#000000" stroke-width="1" width="137" x="222" y="1029"/>
+<text font-family="Lucida Grande" font-size="13" x="265" y="1063">
+Storable</text>
+<text font-family="Lucida Grande" font-size="13" x="243" y="1044">
+&lt;&lt;interface&gt;&gt;</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="137" x="222" y="1073"/>
+<text font-family="Lucida Grande" font-size="13" x="226" y="1088">
+getStorageDriver()</text>
+<text font-family="Lucida Grande" font-size="13" x="226" y="1105">
+getStorageLocation()</text>
+<text font-family="Lucida Grande" font-size="13" x="226" y="1122">
+getStorageValues()</text>
+<polyline fill="none" points="286,716 286,1029" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="279" x2="286" y1="1017" y2="1029"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="293" x2="286" y1="1017" y2="1029"/>
+<text font-family="Lucida Grande" font-size="13" x="283" y="987">
+&lt;&lt;implements&gt;&gt;</text>
+<text font-family="Lucida Grande" font-size="13" x="299" y="743">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="299" y="1012">
+1</text>
+<polyline fill="none" points="510,724 510,1045 358,1045" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="370" x2="358" y1="1038" y2="1045"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="370" x2="358" y1="1052" y2="1045"/>
+<text font-family="Lucida Grande" font-size="13" x="514" y="973">
+&lt;&lt;implements&gt;&gt;</text>
+<text font-family="Lucida Grande" font-size="13" x="523" y="751">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="369" y="1040">
+1</text>
+<polyline fill="none" points="742,724 742,1045 358,1045" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="370" x2="358" y1="1038" y2="1045"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="370" x2="358" y1="1052" y2="1045"/>
+<text font-family="Lucida Grande" font-size="13" x="746" y="969">
+&lt;&lt;implements&gt;&gt;</text>
+<text font-family="Lucida Grande" font-size="13" x="755" y="751">
+1</text>
+<polyline fill="none" points="1662,448 1662,1021 398,1021 358,1029" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="368" x2="358" y1="1019" y2="1029"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="371" x2="358" y1="1033" y2="1029"/>
+<text font-family="Lucida Grande" font-size="13" x="1533" y="967">
+&lt;&lt;implements&gt;&gt;</text>
+<polyline fill="none" points="326,1132 326,1221" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="319" x2="326" y1="1209" y2="1221"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="333" x2="326" y1="1209" y2="1221"/>
+<text font-family="Lucida Grande" font-size="13" x="332" y="1159">
+1..*</text>
+<text font-family="Lucida Grande" font-size="13" x="339" y="1204">
+1</text>
+<rect fill="#ffffff" height="71" stroke="#ffffff" stroke-width="1" width="142" x="694" y="1245"/>
+<rect fill="none" height="71" stroke="#000000" stroke-width="1" width="142" x="694" y="1245"/>
+<text font-family="Lucida Grande" font-size="13" x="699" y="1259">
+GenericStorageDriver</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="142" x="694" y="1269"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="142" x="694" y="1292"/>
+<polyline fill="none" points="694,1261 545,1261" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="557" x2="545" y1="1254" y2="1261"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="557" x2="545" y1="1268" y2="1261"/>
+<text font-family="Lucida Grande" font-size="13" x="569" y="1254">
+&lt;&lt;implements&gt;&gt;</text>
+<rect fill="#ffffff" height="68" stroke="#ffffff" stroke-width="1" width="155" x="942" y="1253"/>
+<rect fill="none" height="68" stroke="#000000" stroke-width="1" width="155" x="942" y="1253"/>
+<text font-family="Lucida Grande" font-size="13" x="947" y="1267">
+EmployeeStorageDriver</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="155" x="942" y="1277"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="155" x="942" y="1298"/>
+<rect fill="#ffffff" height="67" stroke="#ffffff" stroke-width="1" width="162" x="966" y="1285"/>
+<rect fill="none" height="67" stroke="#000000" stroke-width="1" width="162" x="966" y="1285"/>
+<text font-family="Lucida Grande" font-size="13" x="971" y="1299">
+EquipmentStorageDriver</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="162" x="966" y="1309"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="162" x="966" y="1330"/>
+<rect fill="#ffffff" height="67" stroke="#ffffff" stroke-width="1" width="160" x="990" y="1317"/>
+<rect fill="none" height="67" stroke="#000000" stroke-width="1" width="160" x="990" y="1317"/>
+<text font-family="Lucida Grande" font-size="13" x="1010" y="1331">
+EventStorageDriver</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="160" x="990" y="1341"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="160" x="990" y="1362"/>
+<rect fill="#ffffff" height="67" stroke="#ffffff" stroke-width="1" width="160" x="1006" y="1349"/>
+<rect fill="none" height="67" stroke="#000000" stroke-width="1" width="160" x="1006" y="1349"/>
+<text font-family="Lucida Grande" font-size="13" x="1072" y="1363">
+.......</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="160" x="1006" y="1373"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="160" x="1006" y="1394"/>
+<polyline fill="none" points="942,1261 835,1261" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="847" x2="835" y1="1254" y2="1261"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="847" x2="835" y1="1268" y2="1261"/>
+<text font-family="Lucida Grande" font-size="13" x="848" y="1260">
+&lt;&lt;extends&gt;&gt;</text>
+<rect fill="#ffffff" height="125" stroke="#ffffff" stroke-width="1" width="128" x="822" y="1037"/>
+<rect fill="none" height="125" stroke="#000000" stroke-width="1" width="128" x="822" y="1037"/>
+<text font-family="Lucida Grande" font-size="13" x="850" y="1071">
+DBInterface</text>
+<text font-family="Lucida Grande" font-size="13" x="838" y="1052">
+&lt;&lt;interface&gt;&gt;</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="128" x="822" y="1081"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="128" x="822" y="1102"/>
+<text font-family="Lucida Grande" font-size="13" x="826" y="1117">
+store(storableObj)</text>
+<text font-family="Lucida Grande" font-size="13" x="826" y="1134">
+load(storableObj)</text>
+<text font-family="Lucida Grande" font-size="13" x="826" y="1151">
+initialize(lambda)</text>
+<polyline fill="none" points="822,1061 358,1061" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="370" x2="358" y1="1054" y2="1061"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="370" x2="358" y1="1068" y2="1061"/>
+<text font-family="Lucida Grande" font-size="13" x="803" y="1056">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="365" y="1076">
+1..*</text>
+<rect fill="#ffffff" height="92" stroke="#ffffff" stroke-width="1" width="128" x="1110" y="1077"/>
+<rect fill="none" height="92" stroke="#000000" stroke-width="1" width="128" x="1110" y="1077"/>
+<text font-family="Lucida Grande" font-size="13" x="1115" y="1091">
+DefaultDBInterface</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="128" x="1110" y="1101"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="128" x="1110" y="1124"/>
+<text font-family="Lucida Grande" font-size="13" x="1114" y="1139">
+initializeDB()</text>
+<text font-family="Lucida Grande" font-size="13" x="1114" y="1156">
+NUKE()</text>
+<polyline fill="none" points="1110,1093 949,1093" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="961" x2="949" y1="1086" y2="1093"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="961" x2="949" y1="1100" y2="1093"/>
+<text font-family="Lucida Grande" font-size="13" x="989" y="1092">
+&lt;&lt;implements&gt;&gt;</text>
+<rect fill="#ffffff" height="160" stroke="#ffffff" stroke-width="1" width="252" x="1342" y="1197"/>
+<rect fill="none" height="160" stroke="#000000" stroke-width="1" width="252" x="1342" y="1197"/>
+<text font-family="Lucida Grande" font-size="13" x="1390" y="1211">
+JDBCConnectionManager</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="252" x="1342" y="1221"/>
+<text font-family="Lucida Grande" font-size="13" x="1346" y="1236">
+dbConnection : JDBCConnection</text>
+<text font-family="Lucida Grande" font-size="13" x="1346" y="1253">
+connectionType : JDBCConnectionType</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="252" x="1342" y="1263"/>
+<text font-family="Lucida Grande" font-size="13" x="1346" y="1278">
+establishConnection(connType)</text>
+<text font-family="Lucida Grande" font-size="13" x="1346" y="1295">
+closeConnection()</text>
+<text font-family="Lucida Grande" font-size="13" x="1346" y="1312">
+query(SQLcode)</text>
+<text font-family="Lucida Grande" font-size="13" x="1346" y="1329">
+multiQuery(arraySQLcode)</text>
+<text font-family="Lucida Grande" font-size="13" x="1346" y="1346">
+GetConnectionType()</text>
+<polyline fill="none" points="1237,1168 1342,1197" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1328" x2="1342" y1="1200" y2="1197"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1332" x2="1342" y1="1187" y2="1197"/>
+<text font-family="Lucida Grande" font-size="13" x="1253" y="1165">
+1</text>
+<text font-family="Lucida Grande" font-size="13" x="1324" y="1184">
+1</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1438" x2="894" y1="909" y2="1037"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="918" x2="894" y1="941" y2="1037"/>
+<rect fill="#ffffff" height="36" stroke="#ffffff" stroke-width="1" width="185" x="838" y="909"/>
+<rect fill="none" height="35" stroke="#000000" stroke-width="1" width="184" x="838" y="909"/>
+<text font-family="Lucida Grande" font-size="13" x="840" y="924">
+Menny Domain Layer classes</text>
+<rect fill="#ffffff" height="36" stroke="#ffffff" stroke-width="1" width="131" x="1414" y="885"/>
+<rect fill="none" height="35" stroke="#000000" stroke-width="1" width="130" x="1414" y="885"/>
+<text font-family="Lucida Grande" font-size="13" x="1416" y="900">
+Menny Auth Classes</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="894" x2="886" y1="1037" y2="1029"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="894" x2="902" y1="1037" y2="1029"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="902" x2="910" y1="1037" y2="1029"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="902" x2="918" y1="1037" y2="1037"/>
+<text font-family="Lucida Grande" font-size="36" x="1375" y="1065">
+Infastructure Layer</text>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DBInterfaceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-11-30T03:46:42" hostname="NiniPrincessdeMacBook-Pro.local" time="0.224">
+  <properties/>
+  <testcase name="accountDB" classname="DBInterfaceTest" time="0.153"/>
+  <testcase name="eventDB" classname="DBInterfaceTest" time="0.021"/>
+  <testcase name="equipmentDB" classname="DBInterfaceTest" time="0.009"/>
+  <testcase name="updateRecordTest" classname="DBInterfaceTest" time="0.01"/>
+  <testcase name="storeLoadTest" classname="DBInterfaceTest" time="0.004"/>
+  <testcase name="employeeDB" classname="DBInterfaceTest" time="0.013"/>
+  <testcase name="eventRange" classname="DBInterfaceTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
